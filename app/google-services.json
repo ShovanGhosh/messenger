@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "648753439667",
+    "firebase_url": "https://darklordshovan.firebaseio.com",
+    "project_id": "darklordshovan",
+    "storage_bucket": "darklordshovan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648753439667:android:35800a1eafc976ff",
+        "android_client_info": {
+          "package_name": "com.app.shovan.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648753439667-clghpth0t83041igpp83cmotemtlidfq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.shovan.messenger",
+            "certificate_hash": "acf9f77b66a62e100a04ef4eaa49561cc738644d"
+          }
+        },
+        {
+          "client_id": "648753439667-j3v5bv5alatb33uqefekgbm153rma329.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp3HWqdJXFZFVezbKpMoi_9l23rezKNXo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648753439667-j3v5bv5alatb33uqefekgbm153rma329.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
